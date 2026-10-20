@@ -1,0 +1,6 @@
+{
+  "name": "Urnerei Brühlgut",
+  "description": "Digitale Produktionsplanung der Urnerei Brühlgut: Kundenübersicht mit Jahressoll (hart & löslich), Jahresplaner mit aufklappbarer Kundenliste & Drag & Drop ohne horizontales Scrollen sowie Wochen- & Feinplanung mit Feiertagspuffer und Störungsmanagement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
